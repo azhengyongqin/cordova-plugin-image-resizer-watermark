@@ -24,6 +24,9 @@ At the moment the plugin is available on android, iOS and windows
     window.ImageResizer.resize(options, success, failed);
     
 ### Options
+  - **position**(String):The position of geographic location information
+  - **longitude**(String)
+  - **latitude**(String)
   - **uri**(String): The Uri for the image on the device to get scaled
   - **folderName**(String, required on Android): The name of the folder the image should be put in **android only**
   - **fileName**(String, required on iOS): A custom name for the file. Default name is a timestamp.
