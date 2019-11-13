@@ -1,16 +1,16 @@
 {
-  "_from": "cordova-plugin-simple-image-resizer",
-  "_id": "cordova-plugin-simple-image-resizer@0.2.0",
+  "_from": "cordova-plugin-image-resizer-watermark",
+  "_id": "cordova-plugin-image-resizer-watermark@0.2.0",
   "_inBundle": false,
   "_integrity": "sha1-xAXiUvzeqf62xoiz8wHo0Bd/YOQ=",
-  "_location": "/cordova-plugin-simple-image-resizer",
+  "_location": "/cordova-plugin-image-resizer-watermark",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "cordova-plugin-simple-image-resizer",
-    "name": "cordova-plugin-simple-image-resizer",
-    "escapedName": "cordova-plugin-simple-image-resizer",
+    "raw": "cordova-plugin-image-resizer-watermark",
+    "name": "cordova-plugin-image-resizer-watermark",
+    "escapedName": "cordova-plugin-image-resizer-watermark",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,17 +19,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-simple-image-resizer/-/cordova-plugin-simple-image-resizer-0.2.0.tgz",
-  "_shasum": "c405e252fcdea9feb6c688b3f301e8d0177f60e4",
-  "_spec": "cordova-plugin-simple-image-resizer",
-  "_where": "E:\\Android\\lineme-app",
-  "author": "",
-  "bugs": {
-    "url": "https://github.com/JoschkaSchulz/cordova-plugin-image-resizer/issues"
-  },
-  "bundleDependencies": false,
   "cordova": {
-    "id": "cordova-plugin-simple-image-resizer",
+    "id": "cordova-plugin-image-resizer-watermark",
     "platforms": [
       "ios",
       "android"
@@ -43,17 +34,17 @@
       "version": ">=3.5.0"
     }
   ],
-  "homepage": "https://github.com/JoschkaSchulz/cordova-plugin-image-resizer#readme",
+  "homepage": "https://github.com/azhengyongqin/cordova-plugin-image-resizer-watermark#readme",
   "keywords": [
     "ecosystem:cordova",
     "cordova-ios",
     "cordova-android"
   ],
   "license": "MIT",
-  "name": "cordova-plugin-simple-image-resizer",
+  "name": "cordova-plugin-image-resizer-watermark",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoschkaSchulz/cordova-plugin-image-resizer.git"
+    "url": "git+https://github.com/azhengyongqin/cordova-plugin-image-resizer-watermark.git"
   },
   "version": "0.2.0"
 }
