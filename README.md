@@ -1,4 +1,4 @@
-        # Image Resizer for Cordova #
+# Image Resizer And Positon Watermark for Cordova #
 By: Protonet GmbH
 
 Authors: Joschka Schulz
@@ -12,7 +12,7 @@ Use the Cordova CLI and type in the following command:
 cordova plugin add cordova-plugin-camera
 
 // This plugin
-cordova plugin add https://github.com/protonet/cordova-plugin-image-resizer.git
+cordova plugin add https://github.com/azhengyongqin/cordova-plugin-image-resizer-watermark
 ```
 
 ## Sample Code
